@@ -1,0 +1,77 @@
+body{
+
+    text-align: center;
+    padding: 0em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+
+    padding-top: 10%;
+    font-size: 400%;
+    color: #654321;
+    font-weight: bold;
+    
+}
+
+h2{
+    padding-left: 40px;
+    padding-right: 40px;
+    color:crimson;
+
+
+}
+
+.button{
+
+    border-color: coral;
+    border-radius: 15px;
+    height: 40px;
+    width: 80px;
+  
+}
+.para1{
+    background-image: url('https://source.unsplash.com/collection/190727/1600x900');
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.para2{
+    background-color: #8B4513;
+    padding: 0%;
+    margin:0px;
+    padding-left: 0%;
+    padding-right: 0em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.row{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.column{
+
+    float: left;
+}
+
+.left{
+
+    background-color: #8B4513;
+    width: 33%
+}
+.middle{
+    width: 33%
+}
+.right{
+    background-color: #8B4513;
+
+    width: 33%
+}
